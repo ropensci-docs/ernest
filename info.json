@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "dbf02c7e6cdc66ef0321e04d3b1d856ad39004b5",
+    "author": "Kyle Dewsnap <30324420+kylesnap@users.noreply.github.com>",
+    "time": "2026-07-07T16:46:01Z",
+    "files": 1,
+    "merge": false,
+    "message": "CRAN submission accepted.\n"
+  },
+  "repo": "https://github.com/ropensci/ernest",
+  "pkg": "ernest",
+  "time": "2026-10-01T07:49:53Z"
+}
